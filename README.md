@@ -15,5 +15,5 @@
 
 **Code Last Updated**:    May 2022
 
-[]!(https://github.com/ZimmerMaps/WFP-Maize-Price-Analysis/blob/main/Screenshot%202024-03-01%20at%2014.30.45.png)
-[]!(https://github.com/ZimmerMaps/WFP-Maize-Price-Analysis/blob/main/Screenshot%202024-03-01%20at%2014.30.53.png)
+![](https://github.com/ZimmerMaps/WFP-Maize-Price-Analysis/blob/main/Screenshot%202024-03-01%20at%2014.30.45.png)
+![](https://github.com/ZimmerMaps/WFP-Maize-Price-Analysis/blob/main/Screenshot%202024-03-01%20at%2014.30.53.png)
